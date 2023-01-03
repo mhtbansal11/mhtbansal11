@@ -50,7 +50,7 @@
  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100">
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
- <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="mhtbansal11" width="100" >
+ <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="mhtbansal11" width="100"  height="100px">
 </div>
 
 
