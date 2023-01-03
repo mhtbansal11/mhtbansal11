@@ -60,7 +60,7 @@
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtbansal11&" alt="mhtbansal11" /></p>
 
