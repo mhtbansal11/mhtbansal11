@@ -42,6 +42,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtbansal11&show_icons=true&locale=en&layout=compact" alt="mhtbansal11" /></p>
 <br>
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtbansal11&" alt="mhtbansal11" /></p>
