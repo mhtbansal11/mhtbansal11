@@ -47,7 +47,7 @@
  <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" width="100" height="100px">
  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100">
- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="100px">
+ <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100">
 </div>
 
 
