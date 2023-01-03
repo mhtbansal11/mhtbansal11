@@ -1,5 +1,4 @@
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" />
-
 <h1 align="center">Hi 👋, I'm Mohit Bansal</h1>
 <h3 align="center">A passionate frontend developer from Jaipur, Rajasthan.</h3>
 
@@ -13,11 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://mhtbansal11.github.io](https://mhtbansal11.github.io)
 
-- 💬 Ask me about **HTML, CSS, Java Script, REACT, Redux**
+- 💬 Ask me about **HTML, CSS, Java Script, ReactJS, Redux, NodeJs, Express, MongoDB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohit-bansal11**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bAHJ5X70ZF4ICDqcy4Hw0yFDMAOrMqnm/view?usp=sharing](https://drive.google.com/file/d/1bAHJ5X70ZF4ICDqcy4Hw0yFDMAOrMqnm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtbansal11&" alt="mhtbansal11" /></p>
+
