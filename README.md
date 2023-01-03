@@ -41,6 +41,7 @@
  
  <div align="center" >
  <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100"  alt="html" >
+  <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100">  
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
