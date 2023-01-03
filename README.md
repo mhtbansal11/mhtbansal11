@@ -50,6 +50,7 @@
  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100">
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
+ <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="mhtbansal11" width="100" >
 </div>
 
 
@@ -57,10 +58,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhtbansal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhtbansal11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohit-bansal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-bansal11" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mhtbansal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mhtbansal11" height="30" width="40" /></a>
-<a href="https://instagram.com/_mohit_bansal_1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohit_bansal_1997" height="30" width="40" /></a>
+<a href="https://twitter.com/mhtbansal11" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1525393/screenshots/6484130/comp_1.gif" alt="mhtbansal11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohit-bansal11" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif)" alt="mohit-bansal11" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mhtbansal11" target="blank"><img align="center" src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="mhtbansal11" height="30" width="40" /></a>
+<a href="https://instagram.com/_mohit_bansal_1997" target="blank"><img align="center" src="https://i.gifer.com/7Rlc.gif" alt="_mohit_bansal_1997" height="30" width="40" /></a>
 </p>
 </div>
 
