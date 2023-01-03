@@ -47,7 +47,7 @@
  <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" width="100" height="100px">
  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100">
- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100">
+ <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="80px">
 </div>
 
 
@@ -65,17 +65,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mhtbansal11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhtbansal11" /></a></p>
 
-<br>
-<br>
-<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtbansal11&show_icons=true&locale=en&layout=compact" alt="mhtbansal11" /></p>
-<!-- <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> -->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtbansal11&" alt="mhtbansal11" /></p>
