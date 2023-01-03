@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtbansal11&label=Profile%20views&color=0e75b6&style=flat" alt="mhtbansal11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhtbansal11" alt="mhtbansal11" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mhtbansal11" target="blank"><img src="https://img.shields.io/twitter/follow/mhtbansal11?logo=twitter&style=for-the-badge" alt="mhtbansal11" /></a> </p>
 
@@ -68,6 +67,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtbansal11&" alt="mhtbansal11" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhtbansal11" alt="mhtbansal11" /></a> </p>
+
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhtbansal11&theme=rogue)](https://github.com/mhtbansal11/github-readme-activity-graph)
 
