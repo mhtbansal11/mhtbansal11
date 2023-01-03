@@ -40,7 +40,7 @@
  -->
  
  <div align="center">
- <iframe src="https://giphy.com/embed/l3vRfNA1p0rvhMSvS" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ <img src="https://giphy.com/embed/l3vRfNA1p0rvhMSvS" width="480" height="192" alt="html" />
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
