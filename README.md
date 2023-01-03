@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" />
 <h1 align="center">Hi 👋, I'm Mohit Bansal</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Jaipur, Rajasthan.</h3>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+<!-- <h3 align="center">A passionate Full Stack Web Developer from Jaipur, Rajasthan.</h3> -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtbansal11&label=Profile%20views&color=0e75b6&style=flat" alt="mhtbansal11" /> </p>
 
