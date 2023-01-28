@@ -70,12 +70,12 @@
 <br>
 <br>
 <h3>🏆 GitHub Trophies:</h3
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhtbansal11" alt="mhtbansal11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhtbansal11&theme=transparent" alt="mhtbansal11" /></a> </p>
 
 <h3>📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtbansal11&show_icons=true&locale=en&layout=compact" alt="mhtbansal11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtbansal11&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mhtbansal11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en" alt="mhtbansal11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtbansal11&show_icons=true&locale=en&theme=transparent" alt="mhtbansal11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtbansal11&" alt="mhtbansal11" /></p>
 
