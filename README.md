@@ -46,7 +46,7 @@
  <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/d9875b30-d156-11e9-9bd6-9b3137b96616.png" width="100">
   <img src="https://farm5.staticflickr.com/4529/38018565835_1bf7e196f5.jpg" alt="ts" width="100"  height="100px">  
  <br>
-  <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" alt="Figma" width="100" height="100px">
+  <img src="[https://thdaily.s3.us-west-1.amazonaws.com/final_size-Figma_logo_20210816012231.gif" alt="Figma" width="100" height="100px">
   <img src="https://codetru.com/images/all/nodejsdis.gif" width="100">
   <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px">
 
