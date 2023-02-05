@@ -51,7 +51,11 @@
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
  <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="mhtbansal11" width="100"  height="100px">
- <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" alt="mhtbansal11" width="100"  height="100px">
+ <img src="https://vectorified.com/images/express-js-icon-20.png" alt="mhtbansal11" width="100"  height="100px">
+ <img src="https://farm5.staticflickr.com/4529/38018565835_1bf7e196f5.jpg" alt="ts" width="100"  height="100px">                                                       
+ <img src="https://image.pitchbook.com/hG77CP8UhJjUMH6f59hnUSo3p2V1608196200048_200x200" alt="vercel" width="100"  height="100px">
+ <img src="https://i.pinimg.com/736x/20/2b/94/202b94d9ffce6495998030d08c6ddbe6.jpg" alt="cyclic" width="100"  height="100px">
+ 
 </div>
 
 
