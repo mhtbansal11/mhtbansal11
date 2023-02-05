@@ -41,7 +41,7 @@
   <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px">  
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"> 
- <img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2020/02/reduxlogo.png?ssl=1" alt="redux" style="transform:rotate(90deg);" width="100" height="90px">
+ <img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2020/02/reduxlogo.png?ssl=1" alt="redux" width="100" height="90px">
  <img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" alt="react redux " width="100" height="100px">
  <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/d9875b30-d156-11e9-9bd6-9b3137b96616.png" width="100">
   <img src="https://farm5.staticflickr.com/4529/38018565835_1bf7e196f5.jpg" alt="ts" width="100"  height="100px">  
