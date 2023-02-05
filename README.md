@@ -44,6 +44,7 @@
  <img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2020/02/reduxlogo.png?ssl=1" alt="redux" wodth="100" height="100px">
  <img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" alt="react redux " width="100" height="100px">
  <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/d9875b30-d156-11e9-9bd6-9b3137b96616.png" width="100">
+ <br>
  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100">      
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
  <img src="https://codetru.com/images/all/nodejsdis.gif" width="100">
